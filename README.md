@@ -6,5 +6,5 @@ JavaScript Practice Session:
 - geolocation
 - watchPosition
 - coordinates
-- trasform
+- transform
 - heading
